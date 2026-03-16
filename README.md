@@ -34,7 +34,8 @@ python caesar_cipher.py
 - 位移量（非负整数）
 - 模式选择： 1  代表加密， -1  代表解密
 
-
+程序流程图
+![凯撒密码流程图](./凯撒密码流程图.jpg)
   
 模型框架与核心逻辑 
 核心函数： caesar_cipher(text, move, a=1) 
